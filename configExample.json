@@ -1,0 +1,8 @@
+{
+  "DB": {
+    "FilePath": "./1.db"
+  },
+  "Server": {
+    "Port": 1001
+  }
+}
